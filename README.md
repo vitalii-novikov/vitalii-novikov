@@ -27,18 +27,18 @@ AI-powered fashion recommendation system using CLIP embeddings and an Annoy inde
 
 ### 🎧 Real-Time Music Streaming Analytics Pipeline  
 *Kafka • Spark Streaming • ClickHouse • Grafana • Python*  
-Real-time ETL pipeline with **sub-second latency**, robust stateful transformations, and dashboards.  
+Real-time ETL pipeline with **sub-second latency**, robust stateful transformations, and dashboards.    
 [Github link](https://github.com/vitalii-novikov/music_stream)
 
 ### 🎬 Hybrid MovieLens Recommender System  
 *Python • PyTorch • SQL • Streamlit*  
-Neural Matrix Factorization + hybrid model achieving **Recall@10 = 0.79**, deployed via Streamlit.
+Neural Matrix Factorization + hybrid model achieving **Recall@10 = 0.79**, deployed via Streamlit.  
 [Github link](https://github.com/AntonyShaps/solution_eng_movies)
 
 ### 🏦 Enterprise Banking Data Model (Award-Winning Thesis)  
 *SQL • Data Modeling • GraphQL • MDM* 
-Enterprise Data Model for multi-product banking ecosystem. 1st place — ITSMF National Award.
-[1st place national Award](https://drive.google.com/file/d/1jCp09cxFf0CNyQ66ZMX-lhLo_BczXYWz/view?usp=sharing)
+Enterprise Data Model for multi-product banking ecosystem. 1st place — ITSMF National Award.  
+[1st place national Award](https://drive.google.com/file/d/1jCp09cxFf0CNyQ66ZMX-lhLo_BczXYWz/view?usp=sharing)  
 [Recommendation Letter](https://drive.google.com/file/d/1hA7TRINCxehRRJpgFRhSpR5fM2DS-30r/view?usp=drive_link)
 
 ---
