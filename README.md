@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 Core Strengths
+## Core Strengths
 - **Machine Learning:** PyTorch, GNNs, Recommender Systems, Forecasting, NLP  
 - **Analytics & Product DS:** Experimentation (A/B), customer behavior modeling, feature design  
 - **Real-Time Data:** Kafka, Spark Streaming, ClickHouse, high-frequency pipelines  
@@ -16,9 +16,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## --> Featured Projects <--
 
-### Fashion Recommendation System (CLIP + Annoy)
+### 👕 Fashion Recommendation System (CLIP + Annoy)
 *Python • Docker • TorchServe • CLIP (by OpenAI) • Annoy (by Spotify) • FastAPI • Streamlit • Cloud Run*  
 AI-powered fashion recommendation system using CLIP embeddings and an Annoy index for fast similarity search, packaged with TorchServe and a Streamlit UI for real-time outfit recommendations.  
 **Google Cloud Run version:** [link](https://github.com/vitalii-novikov/fashion_CloudRun)
@@ -43,13 +43,13 @@ Enterprise Data Model for multi-product banking ecosystem. 1st place — ITSMF N
 
 ---
 
-## 📚 Currently Building
+## Currently Building
 - GNN model for financial limit order books  
 - Fashion recommendations: multi-modal embeddings + ranking  
 
 ---
 
-## 📫 Contact
+## Contact
 📧 novikov.vitalii.v@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/vitalii-novikov-ds
 
