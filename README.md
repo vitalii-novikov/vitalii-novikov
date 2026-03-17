@@ -1,5 +1,5 @@
 # Hi, I'm Vitalii — Data Scientist & ML Engineer  
-**Product Analytics • Machine Learning • Quant ML • Recommender Systems • Real-Time Data**
+**Product Analytics • Machine Learning • ML • Recommender Systems • Real-Time Data**
 
 🎓 Master's in Data Science (Vienna) — Thesis on **Graph Neural Networks for Market Microstructure Modeling**  
 📍 Open to global opportunities: Europe • UK • Dubai • Remote  
