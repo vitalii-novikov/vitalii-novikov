@@ -1,7 +1,7 @@
 # Hi, I'm Vitalii — Analytics Engineer
-**Product Analytics • Machine Learning • ML • Recommender Systems • Real-Time Data**
+**Product Analytics • Machine Learning • ML • Recommender Systems**
 
-🎓 Master's in Data Science (Vienna) — Thesis on **Graph Neural Networks for Market Microstructure Modeling** [link](https://github.com/vitalii-novikov/GNN_for_LOB)
+🎓 Master's in Data Science (Vienna) — Thesis on Graph Neural Networks for Market Microstructure Modeling  [link](https://github.com/vitalii-novikov/GNN_for_LOB)  
 📍 Open to global opportunities: Europe • UK • Dubai • Remote  
 💡 Passion for: AI for data, Web3 innovations, Financial ML, Recommender Systems, Streaming Systems, FashionTech
 
